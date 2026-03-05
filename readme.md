@@ -9,7 +9,7 @@
 
 ## 📊 Project Overview  
 
-This project focuses on analyzing restaurant data collected through web scraping from **EazyDiner**. The main goal is to understand pricing trends, customer ratings, discount patterns, and city-wise restaurant behavior to extract meaningful business insights. :contentReference[oaicite:1]{index=1}  
+This project focuses on analyzing restaurant data collected through web scraping from **EazyDiner**. The main goal is to understand pricing trends, customer ratings, discount patterns, and city-wise restaurant behavior to extract meaningful business insights. 
 
 ---
 
@@ -19,14 +19,14 @@ This project focuses on analyzing restaurant data collected through web scraping
 - Identify value-for-money restaurants  
 - Study the relationship between price and customer ratings  
 - Understand discount distribution patterns  
-- Compare restaurant trends across different cities :contentReference[oaicite:2]{index=2}  
+- Compare restaurant trends across different cities 
 
 ---
 
 ## 🌐 Data Source  
 
 - Website Used: **EazyDiner**  
-- Data Collection Method: **Web Scraping** :contentReference[oaicite:3]{index=3}  
+- Data Collection Method: **Web Scraping**
 
 ---
 
@@ -39,7 +39,7 @@ The dataset contains the following important columns:
 - Cuisine Served  
 - Location (City)  
 - Approximate Cost for Two  
-- Discount Percentage :contentReference[oaicite:4]{index=4}  
+- Discount Percentage 
 
 ---
 
@@ -61,7 +61,7 @@ The dataset contains the following important columns:
 #### 🍛 Most Common Cuisines  
 - **Multicuisine** is the most popular  
 - Followed by **North Indian** and **Indian**  
-- Italian, European, and Café cuisines are less common :contentReference[oaicite:5]{index=5}  
+- Italian, European, and Café cuisines are less common   
 
 ---
 
@@ -79,7 +79,7 @@ The dataset contains the following important columns:
 - **Bengaluru** shows the highest price range  
 
 #### 🏷️ City-wise Discount Comparison  
-- **Pune** offers the highest overall discounts :contentReference[oaicite:6]{index=6}  
+- **Pune** offers the highest overall discounts  
 
 ---
 
@@ -89,7 +89,7 @@ The dataset contains the following important columns:
 - Mid-range restaurants dominate the market  
 - Discounts are more marketing-driven than quality-driven  
 - Punjab Grill has the highest number of branches across cities  
-- Pricing strategies vary significantly city-wise :contentReference[oaicite:7]{index=7}  
+- Pricing strategies vary significantly city-wise
 
 ---
 
@@ -153,6 +153,7 @@ This project provides actionable insights into restaurant pricing behavior, cust
 ⭐ If you like this project, don't forget to give it a star!
 
 ```
+
 
 
 
