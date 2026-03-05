@@ -3,7 +3,7 @@
 
 ## 📌 Project Title  
 **Restaurant Price, Rating & Discount Analysis**  
-**Author:** Amol Chavan :contentReference[oaicite:0]{index=0}  
+**Author: Amol Chavan **
 
 ---
 
@@ -153,5 +153,6 @@ This project provides actionable insights into restaurant pricing behavior, cust
 ⭐ If you like this project, don't forget to give it a star!
 
 ```
+
 
 
